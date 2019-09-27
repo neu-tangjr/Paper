@@ -1,4 +1,4 @@
-#Pagerank
+#Pagerank  
 1.Applying reinforcement learning for web pages ranking algorithms:2013 Q1  
 2.Optimizing Web servers using Page rank prefetching for clustered accesses：2003 Q1  
 3.C-Rank and its variants: A contribution-based ranking approach exploiting links and content:2014 q2  
