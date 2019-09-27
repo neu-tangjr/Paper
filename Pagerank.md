@@ -23,3 +23,5 @@ distribution in Google's top search results:2019 q2
 20.User behavior analysis-based smart energy management for webpage ranking: Learning automata-based solution:q3  
 21.Uncertain Graph Sparsification:q1  
 22.Unsupervised Domain Ranking in Large-Scale Web Crawls: q2
+23.In Google We Trust: Users' Decisions on Rank, Position, and Relevance:Q1 2007
+24.The heat kernel as the pagerank of a graph：Q12007
