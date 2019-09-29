@@ -22,6 +22,8 @@ distribution in Google's top search results:2019 q2
 19.LionRank: lion algorithm-based metasearch engines for re-ranking of webpages:q2  
 20.User behavior analysis-based smart energy management for webpage ranking: Learning automata-based solution:q3  
 21.Uncertain Graph Sparsification:q1  
-22.Unsupervised Domain Ranking in Large-Scale Web Crawls: q2
-23.In Google We Trust: Users' Decisions on Rank, Position, and Relevance:Q1 2007
+22.Unsupervised Domain Ranking in Large-Scale Web Crawls: q2  
+23.In Google We Trust: Users' Decisions on Rank, Position, and Relevance:Q1 2007  
 24.The heat kernel as the pagerank of a graph：Q12007
+25.The asymptotic equipartition property for Mth-order nonhomogeneous Markov information sources 2004 q1  
+**26.Multi-information source constrained Bayesian optimization: Q1  
