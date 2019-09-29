@@ -24,6 +24,8 @@ distribution in Google's top search results:2019 q2
 21.Uncertain Graph Sparsification:q1  
 22.Unsupervised Domain Ranking in Large-Scale Web Crawls: q2  
 23.In Google We Trust: Users' Decisions on Rank, Position, and Relevance:Q1 2007  
-24.The heat kernel as the pagerank of a graph：Q12007
-25.The asymptotic equipartition property for Mth-order nonhomogeneous Markov information sources 2004 q1  
+24.The heat kernel as the pagerank of a graph：Q12007  
+25.The asymptotic equipartition property for Mth-order nonhomogeneous Markov information sources 2004 q1   
 **26.Multi-information source constrained Bayesian optimization: Q1  
+27.Bidirectional implementation of Markov/CCMT for dynamic reliability analysis with application to digital I&C systems：Q1  
+28.A heuristic search algorithm based on subspaces for PageRank computation：Q2 2018  
