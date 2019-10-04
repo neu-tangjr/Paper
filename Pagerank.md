@@ -29,3 +29,12 @@ distribution in Google's top search results:2019 q2
 **26.Multi-information source constrained Bayesian optimization: Q1  
 27.Bidirectional implementation of Markov/CCMT for dynamic reliability analysis with application to digital I&C systems：Q1  
 28.A heuristic search algorithm based on subspaces for PageRank computation：Q2 2018  
+关键字：information Source 
+1.Source preferences in the context of seeking problem-specific information：q1 2007  
+2.An analysis of natural disaster-related information-seeking behavior using temporal stages:q2 2019
+3.How students evaluate information and sources when searching the World Wide Web for information：q1 2009  
+4.Learning to integrate divergent information sources: the interplay of epistemic cognition and epistemic metacognition:q1 2018  
+5.Evaluating quality of health information sources:AINA 2012  
+6.Multi-information source constrained Bayesian optimization:2019 q1  
+7.How source information shapes lay interpretations of science conflicts: interplay between sourcing, conflict explanation, source evaluation, and claim evaluation:q2 2016  
+8.大数据环境下Web数据源质量评估方法研究
